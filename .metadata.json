@@ -1,0 +1,30 @@
+[
+  {
+    "package": "naniar",
+    "oncran": true
+  },
+  {
+    "package": "visdat",
+    "oncran": true
+  },
+  {
+    "package": "brolgar",
+    "oncran": true
+  },
+  {
+    "package": "syn",
+    "oncran": true
+  },
+  {
+    "package": "maxcovr"
+  },
+  {
+    "package": "mmcc"
+  },
+  {
+    "package": "broomstick"
+  },
+  {
+    "package": "chaletex"
+  }
+]
