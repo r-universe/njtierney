@@ -48,3 +48,8 @@
 	url = https://github.com/njtierney/yahtsee
 	shallow = true
 	registered = true
+[submodule "cli"]
+	path = cli
+	url = https://github.com/r-lib/cli
+	shallow = true
+	registered = false
