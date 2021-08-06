@@ -8,8 +8,7 @@
     "oncran": true
   },
   {
-    "package": "brolgar",
-    "oncran": true
+    "package": "brolgar"
   },
   {
     "package": "syn",
