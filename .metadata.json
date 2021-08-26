@@ -9,7 +9,7 @@
   },
   {
     "package": "brolgar",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "syn",
