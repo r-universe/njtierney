@@ -43,11 +43,6 @@
 	url = https://github.com/njtierney/chaletex
 	shallow = true
 	registered = true
-[submodule "yahtsee"]
-	path = yahtsee
-	url = https://github.com/njtierney/yahtsee
-	shallow = true
-	registered = true
 [submodule "conmat"]
 	path = conmat
 	url = https://github.com/njtierney/conmat
