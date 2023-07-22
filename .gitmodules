@@ -1,60 +1,38 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/njtierney/universe
-	shallow = true
 	branch = HEAD
 [submodule "naniar"]
 	path = naniar
 	url = https://github.com/njtierney/naniar
-	shallow = true
-	registered = true
 [submodule "visdat"]
 	path = visdat
 	url = https://github.com/ropensci/visdat
-	shallow = true
-	registered = true
 [submodule "brolgar"]
 	path = brolgar
 	url = https://github.com/njtierney/brolgar
-	shallow = true
-	registered = true
 [submodule "syn"]
 	path = syn
 	url = https://github.com/njtierney/syn
-	shallow = true
-	registered = true
 [submodule "maxcovr"]
 	path = maxcovr
 	url = https://github.com/njtierney/maxcovr
-	shallow = true
-	registered = true
 [submodule "mmcc"]
 	path = mmcc
 	url = https://github.com/njtierney/mmcc
-	shallow = true
-	registered = true
 [submodule "broomstick"]
 	path = broomstick
 	url = https://github.com/njtierney/broomstick
-	shallow = true
-	registered = true
 [submodule "chaletex"]
 	path = chaletex
 	url = https://github.com/njtierney/chaletex
-	shallow = true
-	registered = true
 [submodule "yahtsee"]
 	path = yahtsee
 	url = https://github.com/njtierney/yahtsee
-	shallow = true
-	registered = true
 [submodule "conmat"]
 	path = conmat
 	url = https://github.com/njtierney/conmat
-	shallow = true
-	registered = true
 [submodule "cli"]
 	path = cli
 	url = https://github.com/r-lib/cli
-	shallow = true
 	registered = false
