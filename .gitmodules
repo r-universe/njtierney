@@ -2,37 +2,37 @@
 	path = .registry
 	url = https://github.com/njtierney/universe
 	branch = HEAD
-[submodule "naniar"]
-	path = naniar
-	url = https://github.com/njtierney/naniar
-[submodule "visdat"]
-	path = visdat
-	url = https://github.com/ropensci/visdat
 [submodule "brolgar"]
 	path = brolgar
 	url = https://github.com/njtierney/brolgar
-[submodule "syn"]
-	path = syn
-	url = https://github.com/njtierney/syn
-[submodule "maxcovr"]
-	path = maxcovr
-	url = https://github.com/njtierney/maxcovr
-[submodule "mmcc"]
-	path = mmcc
-	url = https://github.com/njtierney/mmcc
 [submodule "broomstick"]
 	path = broomstick
 	url = https://github.com/njtierney/broomstick
 [submodule "chaletex"]
 	path = chaletex
 	url = https://github.com/njtierney/chaletex
-[submodule "yahtsee"]
-	path = yahtsee
-	url = https://github.com/njtierney/yahtsee
-[submodule "conmat"]
-	path = conmat
-	url = https://github.com/njtierney/conmat
 [submodule "cli"]
 	path = cli
 	url = https://github.com/r-lib/cli
 	registered = false
+[submodule "conmat"]
+	path = conmat
+	url = https://github.com/njtierney/conmat
+[submodule "maxcovr"]
+	path = maxcovr
+	url = https://github.com/njtierney/maxcovr
+[submodule "mmcc"]
+	path = mmcc
+	url = https://github.com/njtierney/mmcc
+[submodule "naniar"]
+	path = naniar
+	url = https://github.com/njtierney/naniar
+[submodule "syn"]
+	path = syn
+	url = https://github.com/njtierney/syn
+[submodule "visdat"]
+	path = visdat
+	url = https://github.com/ropensci/visdat
+[submodule "yahtsee"]
+	path = yahtsee
+	url = https://github.com/njtierney/yahtsee
