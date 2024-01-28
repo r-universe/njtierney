@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/njtierney/universe
+	url = https://github.com/njtierney/njtierney.r-universe.dev
 	branch = HEAD
 [submodule "brolgar"]
 	path = brolgar
