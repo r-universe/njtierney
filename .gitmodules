@@ -27,6 +27,9 @@
 [submodule "naniar"]
 	path = naniar
 	url = https://github.com/njtierney/naniar
+[submodule "ozroaddeaths"]
+	path = ozroaddeaths
+	url = https://github.com/njtierney/ozroaddeaths
 [submodule "syn"]
 	path = syn
 	url = https://github.com/njtierney/syn
